@@ -3,6 +3,6 @@
 , siteBaseUrl = Some "https://d3cod3.github.io/notes"
 -- List of themes: https://neuron.zettel.page/2014601.html
 , theme = "grey"
-, editUrl = Some "https://d3cod3.github.io/notes/edit/master/"
+, editUrl = Some "https://github.com/d3cod3/notes/edit/master/"
 , mathJaxSupport = False
 }
