@@ -6,7 +6,7 @@ tags: [home]
 
 ogni informazione che ho su me stesso proviene da documenti falsificati
 
-![viento](https://github.com/d3cod3/notes/blob/master/static/viento.jpg)
+![viento](https://github.com/d3cod3/notes/raw/master/static/viento.jpg)
 
 [[[z:zettels?timeline]]]
 
