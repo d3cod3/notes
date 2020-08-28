@@ -2,12 +2,26 @@
 tags: [home]
 ---
 
-# Neuron Template
+# d3cod3 notes
 
-You are viewing a [neuron-template](https://github.com/srid/neuron-template) Zettelkasten published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository is updated.
+ogni informazione che ho su me stesso proviene da documenti falsificati
 
-Get started by reading [[[README]]].
 
-Other pages on this zettelkasten (this demonstrates how to use tag queries):
 
-[[[z:zettels?tag=other]]]
+[[[z:zettels?timeline]]]
+
+---
+
+#### Working on this repos
+
+  - [Mosaic](https://github.com/d3cod3/Mosaic)
+  - [Mosaic Plugin](https://github.com/d3cod3/Mosaic-Plugin)
+  - [Mosaic Manual](https://github.com/d3cod3/Mosaic-Manual)
+  - [ofxVisualProgramming](https://github.com/d3cod3/ofxVisualProgramming)
+  - [ofxOpenDHT](https://github.com/d3cod3/ofxOpenDHT)
+  
+#### Server stuff
+
+  - [Raspbian Server](https://github.com/d3cod3/raspbian-server)
+  - [EE2E Mail Server](https://github.com/d3cod3/EndtoEndEncryptedMailServer)
+  - [rPi TOR access point](https://github.com/d3cod3/SecTorPi)
